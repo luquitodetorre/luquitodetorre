@@ -7,7 +7,7 @@
   </tr>
   <tr>
     <td><img src="https://i.giphy.com/UWERvU4Nzn1ExkPKTx.webp" alt="Hola 3" width="200" height="200"></td>
-    <td><img src="https://i.pinimg.com/originals/37/14/5f/37145f5666dc74c3634f6ac1cb895d8a.gif" alt="Hola 4" width="200" height="200"></td>
+    <td><img src="https://i.pinimg.com/736x/57/ba/80/57ba802e5b3296efa264e61e0a96c274.jpg" alt="Hola 4" width="200" height="200"></td>
   </tr>
 </table>
 
